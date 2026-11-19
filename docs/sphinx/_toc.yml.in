@@ -36,7 +36,7 @@ subtrees:
     title: ROCm-RAG blog
   - url: https://rocm.blogs.amd.com/artificial-intelligence/triton-inference-server/README.html
     title: Triton Inference Server blog
-  - url: https://rocm.blogs.amd.com/artificial-intelligence/verl/README.html
+  - url: https://rocm.blogs.amd.com/artificial-intelligence/verl_0.9.0_rocm7.15/README.html
     title: ROCm verl blog
 
 - caption: About
