@@ -69,6 +69,6 @@ AMD LLM Extension documentation is organized into the following categories:
     * `Ray on ROCm blog <https://rocm.blogs.amd.com/ecosystems-and-partners/ray-rocm7/README.html>`__
     * `ROCm-RAG blog <https://rocm.blogs.amd.com/artificial-intelligence/rag-pipeline-vllm/README.html>`__
     * `Triton Inference Server blog <https://rocm.blogs.amd.com/artificial-intelligence/triton-inference-server/README.html>`__
-    * `verl on ROCm blog <https://rocm.blogs.amd.com/artificial-intelligence/verl/README.html>`__
+    * `verl on ROCm blog <https://rocm.blogs.amd.com/artificial-intelligence/verl_0.9.0_rocm7.15/README.html>`__
 
 
