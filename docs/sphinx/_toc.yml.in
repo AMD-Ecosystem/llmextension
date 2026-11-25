@@ -28,9 +28,9 @@ subtrees:
 
 - caption: Resources
   entries:
-  - url: https://rocm.blogs.amd.com/artificial-intelligence/flashinfer-release2/README.html
+  - url: https://rocm.blogs.amd.com/artificial-intelligence/flashinfer-release3/README.html
     title: ROCm FlashInfer blog
-  - url: https://rocm.blogs.amd.com/artificial-intelligence/rocm10-ray/README.html
+  - url: https://rocm.blogs.amd.com/artificial-intelligence/rocm10.1-ray/README.html
     title: ROCm Ray blog
   - url: https://rocm.blogs.amd.com/artificial-intelligence/rag-pipeline-vllm/README.html
     title: ROCm-RAG blog
